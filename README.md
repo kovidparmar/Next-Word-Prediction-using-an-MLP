@@ -1,4 +1,4 @@
-# Machine Learning Assignment 3
+# Next-Word-Prediction-using-an-MLP
 
 This project combines three core machine learning tasks into a single assignment: image classification, regularization analysis, and next-word prediction. The main focus of this repository is the next-word prediction task using a multi-layer perceptron (MLP), while the other notebooks explore related concepts in neural networks and model generalization.
 
