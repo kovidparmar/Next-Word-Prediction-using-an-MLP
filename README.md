@@ -1,4 +1,4 @@
-# ML Assignment 3
+# Next Word Prediction using an MLP
 
 This repository contains a small machine learning project portfolio for Assignment 3. It combines multiple experiments in image classification, regularization, and text generation, with the main work stored in Jupyter notebooks and a Streamlit demo app.
 
